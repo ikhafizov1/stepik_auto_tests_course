@@ -1,0 +1,4 @@
+add - add to git
+status - show 
+commit -m "text commit"
+git push origin main
